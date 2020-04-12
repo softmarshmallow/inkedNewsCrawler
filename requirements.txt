@@ -49,7 +49,7 @@ python-dateutil==2.7.3
 pyzmq==17.1.2
 qtconsole==4.4.0
 queuelib==1.5.0
-requests==2.19.1
+requests==2.20.0
 Scrapy==1.5.1
 scrapy-mongodb==0.12.0
 scrapy-selenium==0.0.3
