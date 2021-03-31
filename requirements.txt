@@ -24,7 +24,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.4.0
 Jinja2==2.10
 jsonschema==2.6.0
-lxml==4.2.3
+lxml==4.6.3
 mistune==0.8.3
 nbconvert==5.3.1
 nbformat==4.4.0
